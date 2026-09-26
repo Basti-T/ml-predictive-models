@@ -51,4 +51,4 @@ ml-predictive-models/
 ├── Multiple Regression.ipynb       # Final multivariate model (Degree 2, R² = 0.76)
 ├── Polynomial Regression.ipynb     # Complexity analysis & overfitting prevention
 ├── cars_data.csv                   # Cleaned dataset for valuation training
-└── .gitignore                      # Environment exclusion rules
+
